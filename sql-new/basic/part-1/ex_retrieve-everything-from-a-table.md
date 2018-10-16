@@ -27,3 +27,8 @@ links:
 ## Exercise
 
 How can you retrieve all the information from the `facilities` table?
+
+Once you have edited the query, review with your pair which parts of the query you edited to accomplish the task.
+
+### Discuss:
+- How do we specify which table we want data from?

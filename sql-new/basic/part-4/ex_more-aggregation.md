@@ -29,3 +29,9 @@ links:
 ## Exercise
 
 You'd like to get the first and last name of the last member(s) who signed up - not just the date. How can you do that?
+
+Once you have edited the query, review with your pair which parts of the query you edited to accomplish the task.
+
+### Discuss:
+- How do we specify a single row should be returned by our query?
+- How do we specify which columns we want from the table?

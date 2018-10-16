@@ -30,3 +30,9 @@ links:
 ## Exercise
 
 How can you produce an ordered list of the first 10 surnames in the members table? The list must not contain duplicates.
+
+Once you have edited the query, review with your pair which parts of the query you edited to accomplish the task.
+
+### Discuss:
+- How do we remove duplicates from our data using a SQL query?
+- How do we limit the number of rows we return from our query?

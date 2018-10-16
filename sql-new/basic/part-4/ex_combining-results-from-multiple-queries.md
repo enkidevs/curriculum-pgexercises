@@ -29,3 +29,9 @@ links:
 ## Exercise
 
 You, for some reason, want a combined list of all surnames and all facility names. Yes, this is a contrived example :-). Produce that list!
+
+Once you have edited the query, review with your pair which parts of the query you edited to accomplish the task.
+
+### Discuss:
+- How do we combine the results from multiple queries?
+- How do we remove duplicates while combining results from multiple queries?
