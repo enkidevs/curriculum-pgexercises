@@ -26,3 +26,9 @@ links:
 ## Exercise
 
 Alter the query to find the exact information we need for each task.
+
+Once you have edited the query, review with your pair which parts of the query you edited to accomplish the task. 
+
+### Discuss:
+- How do we specify which table we want data from?
+- How do we specify which columns we want from the table?
