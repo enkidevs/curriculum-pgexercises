@@ -6,14 +6,11 @@ core: true
 
 sections:
   '0':
-    - basic
-    - basic-selects
-    - basic-queries
-    - write
-  '1':
-    - aggregate-queries
-    - joins
-    - database-clients
+    - part-0
+    - part-1
+    - part-2
+    - part-3
+    - part-4
 
 standards:
   connect-client:
