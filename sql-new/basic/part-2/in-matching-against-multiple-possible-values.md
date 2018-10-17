@@ -4,11 +4,16 @@ author: amgando
 aspects:
   - introduction
 
+levels:
+  - beginner
+
+type: normal
+
 category: must-know
 
 standards:
-  sql.read-single-table.0: 10
-  sql.read-single-table.1: 10
+  sql-new.read-single-table.0: 10
+  sql-new.read-single-table.1: 10
 
 links:
 
@@ -66,3 +71,4 @@ target output
 * select everything from facilities where facid in (1,5);
 * select * from facilities where facid in('1','5');
 * select * from facilities where facid in 1 and 5;
+

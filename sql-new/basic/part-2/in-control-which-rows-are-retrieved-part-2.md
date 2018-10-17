@@ -4,12 +4,17 @@ author: amgando
 aspects:
   - introduction
 
+levels:
+  - beginner
+
+type: normal
+
 category: must-know
 
 standards:
-  sql.read-single-table.0: 10
-  sql.read-single-table.1: 10
-  sql.read-single-table.2: 10
+  sql-new.read-single-table.0: 10
+  sql-new.read-single-table.1: 10
+  sql-new.read-single-table.2: 10
 
 links:
 
@@ -75,3 +80,4 @@ visualisation
 * select four columns from facilities where membercost greater than 0 and membercost less than monthlymaintenance divided by 50;
 * select facid, name, membercost, monthlymaintenance from facilities where greater(membercost, 0) and less(membercost, monthlymaintenance/50.0);
 * select * from facilities where membercost > 0 and membercost < monthlymaintenance/50.0;
+

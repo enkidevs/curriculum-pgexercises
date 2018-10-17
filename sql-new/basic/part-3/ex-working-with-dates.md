@@ -4,11 +4,14 @@ author: amgando
 aspects:
   - introduction
 
+levels:
+  - beginner
+
 category: must-know
 
 standards:
-  sql.read-single-table.0: 1000
-  sql.read-single-table.1: 1000
+  sql-new.read-single-table.0: 1000
+  sql-new.read-single-table.1: 1000
 
 type: exercise
 
@@ -34,3 +37,4 @@ Once you have edited the query, review with your pair which parts of the query y
 ### Discuss:
 - How do we filter by date values?
 - How do we find rows with a date that occurs between two other dates?
+

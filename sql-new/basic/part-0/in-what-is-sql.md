@@ -4,6 +4,11 @@ author: amgando
 aspects:
   - introduction
 
+levels:
+  - beginner
+
+type: normal
+
 category: must-know
 
 standards:
@@ -44,8 +49,8 @@ SQL is used to manipulate data in relational databases like MySQL, PostgreSQL, O
 
 ???
 
-True
-False
+* True
+* False
 
 ---
 ## Revision
@@ -54,5 +59,6 @@ Relational databases let you connect (or "relate") data about different things o
 
 ???
 
-True
-False
+* True
+* False
+

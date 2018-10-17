@@ -4,12 +4,17 @@ author: amgando
 aspects:
   - introduction
 
+levels:
+  - beginner
+
+type: normal
+
 category: must-know
 
 standards:
-  sql.read-single-table.0: 10
-  sql.read-single-table.1: 10
-  sql.read-single-table.2: 10
+  sql-new.read-single-table.0: 10
+  sql-new.read-single-table.1: 10
+  sql-new.read-single-table.2: 10
 
 links:
 

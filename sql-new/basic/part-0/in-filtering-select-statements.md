@@ -4,12 +4,17 @@ author: amgando
 aspects:
   - introduction
 
+levels:
+  - beginner
+
+type: normal
+
 category: must-know
 
 standards:
-  sql.read-single-table.0: 10
-  sql.read-single-table.1: 10
-  sql.read-single-table.2: 10
+  sql-new.read-single-table.0: 10
+  sql-new.read-single-table.1: 10
+  sql-new.read-single-table.2: 10
 
 links:
 
@@ -39,8 +44,8 @@ SQL let's you filter queries using the `WHERE` clause so you can focus on only t
 
 ???
 
-True
-False
+* True
+* False
 
 ---
 ## Revision
@@ -49,5 +54,6 @@ SQL let's you combine multiple conditions in a `WHERE` clause in case you want t
 
 ???
 
-True
-False
+* True
+* False
+

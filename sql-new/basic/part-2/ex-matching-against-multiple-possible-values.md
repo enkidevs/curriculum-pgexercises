@@ -4,11 +4,14 @@ author: amgando
 aspects:
   - introduction
 
+levels:
+  - beginner
+
 category: must-know
 
 standards:
-  sql.read-single-table.0: 1000
-  sql.read-single-table.1: 1000
+  sql-new.read-single-table.0: 1000
+  sql-new.read-single-table.1: 1000
 
 type: exercise
 
@@ -34,3 +37,5 @@ Once you have edited the query, review with your pair which parts of the query y
 ### Discuss:
 - How do we specify filtering our data on a list of values?
 - How do we specify which columns we want from the table?
+
+

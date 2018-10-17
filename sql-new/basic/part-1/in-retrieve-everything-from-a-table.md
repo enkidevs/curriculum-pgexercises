@@ -4,10 +4,15 @@ author: amgando
 aspects:
   - introduction
 
+levels:
+  - beginner
+
+type: normal
+
 category: must-know
 
 standards:
-  sql.read-single-table.0: 10
+  sql-new.read-single-table.0: 10
 
 links:
 
@@ -59,3 +64,4 @@ How can you retrieve all the information from the `facilities` table?
 * select everything from facilities;
 * select columns from table('facilities');
 * select * from table facilities;
+

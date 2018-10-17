@@ -4,11 +4,16 @@ author: amgando
 aspects:
   - introduction
 
+levels:
+  - beginner
+
+type: normal
+
 category: must-know
 
 standards:
-  sql.read-single-table.0: 10
-  sql.read-single-table.1: 10
+  sql-new.read-single-table.0: 10
+  sql-new.read-single-table.1: 10
 
 links:
 
@@ -63,3 +68,4 @@ target output
 * select everything from members where joindate is recent;
 * select memid, surname, firstname, joindate from members where joindate is greater than '20122-09-01';
 * select memid, surname, firstname, joindate from members where greater(joindate, '20122-09-01');
+

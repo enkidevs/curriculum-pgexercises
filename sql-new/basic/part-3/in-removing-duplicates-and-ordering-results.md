@@ -4,13 +4,18 @@ author: amgando
 aspects:
   - introduction
 
+levels:
+  - beginner
+
+type: normal
+
 category: must-know
 
 standards:
-  sql.read-single-table.0: 10
-  sql.read-single-table.1: 10
-  sql.read-single-table.2: 10
-  sql.read-single-table.3: 10
+  sql-new.read-single-table.0: 10
+  sql-new.read-single-table.1: 10
+  sql-new.read-single-table.2: 10
+  sql-new.read-single-table.3: 10
 
 links:
 
@@ -68,3 +73,4 @@ target output
 * select surname from members order by surname;
 * select distinct surname from members order by surname;
 * select distinct(surname) from members order(surname) limit(10);
+
