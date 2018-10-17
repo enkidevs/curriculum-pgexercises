@@ -38,8 +38,8 @@ SQL let's you select the data you need.
 
 ???
 
-True
-False
+* True
+* False
 
 ---
 ## Revision
@@ -48,6 +48,6 @@ SQL let's you get data from a relational database using `SELECT` statements.
 
 ???
 
-True
-False
+* True
+* False
 

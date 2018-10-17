@@ -44,8 +44,8 @@ SQL let's you filter queries using the `WHERE` clause so you can focus on only t
 
 ???
 
-True
-False
+* True
+* False
 
 ---
 ## Revision
@@ -54,6 +54,6 @@ SQL let's you combine multiple conditions in a `WHERE` clause in case you want t
 
 ???
 
-True
-False
+* True
+* False
 
