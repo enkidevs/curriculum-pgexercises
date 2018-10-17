@@ -7,6 +7,8 @@ aspects:
 levels:
   - beginner
 
+type: normal
+
 category: must-know
 
 standards:
