@@ -32,3 +32,4 @@ Once you have edited the query, review with your pair which parts of the query y
 ### Discuss:
 - How do we specify which table we want data from?
 - How do we specify which columns we want from the table?
+

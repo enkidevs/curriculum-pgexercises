@@ -35,3 +35,4 @@ Once you have edited the query, review with your pair which parts of the query y
 ### Discuss:
 - How do we relate two tables that only have common columns in a third table?
 - Can this be done without writing multiple queries? Why or why not, and why would you want to?
+

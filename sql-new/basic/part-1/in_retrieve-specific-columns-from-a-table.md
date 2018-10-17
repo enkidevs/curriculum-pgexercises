@@ -67,3 +67,4 @@ target output
 * select columns('name', 'membercost') from table('facilities');
 * select name and membercost from table facilities;
 
+

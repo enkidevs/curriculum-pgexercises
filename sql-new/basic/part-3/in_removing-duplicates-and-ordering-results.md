@@ -68,3 +68,4 @@ target output
 * select surname from members order by surname;
 * select distinct surname from members order by surname;
 * select distinct(surname) from members order(surname) limit(10);
+

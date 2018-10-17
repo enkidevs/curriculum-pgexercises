@@ -51,3 +51,4 @@ SQL let's you combine multiple conditions in a `WHERE` clause in case you want t
 
 True
 False
+
