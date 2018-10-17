@@ -10,9 +10,9 @@ levels:
 category: must-know
 
 standards:
-  sql.read-single-table.0: 1000
-  sql.read-single-table.1: 1000
-  sql.read-single-table.2: 1000
+  sql-new.read-single-table.0: 1000
+  sql-new.read-single-table.1: 1000
+  sql-new.read-single-table.2: 1000
 
 type: exercise
 
