@@ -12,7 +12,7 @@ type: normal
 category: must-know
 
 standards:
-  sql.read-single-table.0: 10
+  sql-new.read-single-table.0: 10
 
 links:
 
