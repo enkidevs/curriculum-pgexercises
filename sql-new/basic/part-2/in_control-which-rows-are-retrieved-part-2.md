@@ -4,6 +4,9 @@ author: amgando
 aspects:
   - introduction
 
+levels:
+  - beginner
+
 category: must-know
 
 standards:

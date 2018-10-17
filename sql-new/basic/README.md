@@ -1,4 +1,4 @@
-name: DQL
+name: SQL (new)
 
 description: Get information from SQL RDBMS systems, where most of the world's data is stored.
 
@@ -64,4 +64,4 @@ standards:
       6: Use a WHERE clause with the DELETE command to conditionally delete rows of data
 
 next:
-  - sql:ddl
+
