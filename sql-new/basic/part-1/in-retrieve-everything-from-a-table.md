@@ -40,7 +40,7 @@ How can you retrieve all the information from the `facilities` table?
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 ???
 
@@ -56,7 +56,7 @@ How can you retrieve all the information from the `facilities` table?
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 ???
 

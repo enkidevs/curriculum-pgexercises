@@ -24,7 +24,6 @@ links:
   - '[SELECT queries 101](https://sqlbolt.com/lesson/select_queries_introduction){documentation}'
 
 ---
-
 # Simple Queries using SELECT
 
 ---

@@ -38,3 +38,4 @@ Once you have edited the query, review with your pair which parts of the query y
 ### Discuss:
 - How do we combine the results from multiple queries?
 - How do we remove duplicates while combining results from multiple queries?
+ 

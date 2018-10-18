@@ -21,7 +21,6 @@ linkType: pgexercises
 link: https://pgexercises.com/questions/basic/where2.html
 
 links:
-
   - '[Control which rows are retrieved - part 2](https://pgexercises.com/questions/basic/where2.html){documentation}'
 
 ---

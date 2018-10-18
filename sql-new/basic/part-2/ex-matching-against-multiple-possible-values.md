@@ -20,7 +20,6 @@ linkType: pgexercises
 link: https://pgexercises.com/questions/basic/where4.html
 
 links:
-
   - '[Matching against multiple possible values](https://pgexercises.com/questions/basic/where4.html){documentation}'
 
 ---

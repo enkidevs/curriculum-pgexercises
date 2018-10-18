@@ -42,11 +42,11 @@ You'd like to get the signup date of your last member. How can you retrieve this
 
 `members` table
 
-![table](https://i.imgur.com/BkIONKX.png)
+https://i.imgur.com/BkIONKX.png
 
 target output
 
-![output](https://i.imgur.com/UZiKVSr.png)
+https://i.imgur.com/UZiKVSr.png
 
 ???
 
@@ -62,11 +62,11 @@ You'd like to get the signup date of your last member. How can you retrieve this
 
 `members` table
 
-![table](https://i.imgur.com/BkIONKX.png)
+https://i.imgur.com/BkIONKX.png
 
 target output
 
-![output](https://i.imgur.com/UZiKVSr.png)
+https://i.imgur.com/UZiKVSr.png
 
 ???
 

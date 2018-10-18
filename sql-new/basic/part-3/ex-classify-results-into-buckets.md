@@ -37,3 +37,4 @@ Once you have edited the query, review with your pair which parts of the query y
 ### Discuss:
 - How do we specify conditional statements in our query statement?
 - How can we group our data using the `SELECT` statement?
+ 

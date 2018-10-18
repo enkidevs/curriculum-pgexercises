@@ -11,3 +11,4 @@ exercises:
   - ex-retrieve-everything-from-a-table
   - ex-retrieve-specific-columns-from-a-table
   - ex-control-which-rows-are-retrieved
+ 

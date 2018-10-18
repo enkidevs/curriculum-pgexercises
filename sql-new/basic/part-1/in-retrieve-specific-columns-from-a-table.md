@@ -39,11 +39,11 @@ You want to print out a list of all of the facilities and their cost to members.
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 target output
 
-![output](https://i.imgur.com/Kgo1gf3.png)
+https://i.imgur.com/Kgo1gf3.png
 
 ???
 
@@ -59,11 +59,11 @@ You want to print out a list of all of the facilities and their cost to members.
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 target output
 
-![output](https://i.imgur.com/Kgo1gf3.png)
+https://i.imgur.com/Kgo1gf3.png
 
 ???
 
