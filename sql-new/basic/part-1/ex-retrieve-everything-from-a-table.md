@@ -19,7 +19,6 @@ linkType: pgexercises
 link: https://pgexercises.com/questions/basic/selectall.html
 
 links:
-
   - '[Retrieve everything from a table](https://pgexercises.com/questions/basic/selectall.html){documentation}'
 
 ---

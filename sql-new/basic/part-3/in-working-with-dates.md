@@ -35,11 +35,11 @@ How can you produce a list of members who joined after the start of September 20
 
 `members` table
 
-![table](https://i.imgur.com/BkIONKX.png)
+https://i.imgur.com/BkIONKX.png
 
 target output
 
-![output](https://i.imgur.com/uh8p30g.png)
+https://i.imgur.com/uh8p30g.png
 
 ???
 
@@ -56,11 +56,11 @@ How can you produce a list of members who joined after the start of September 20
 
 `members` table
 
-![table](https://i.imgur.com/BkIONKX.png)
+https://i.imgur.com/BkIONKX.png
 
 target output
 
-![output](https://i.imgur.com/uh8p30g.png)
+https://i.imgur.com/uh8p30g.png
 
 ???
 

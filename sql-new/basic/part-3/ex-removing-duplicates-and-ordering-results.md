@@ -22,7 +22,6 @@ linkType: pgexercises
 link: https://pgexercises.com/questions/basic/unique.html
 
 links:
-
   - '[Removing duplicates, and ordering results](https://pgexercises.com/questions/basic/unique.html){documentation}'
 
 ---

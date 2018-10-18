@@ -49,11 +49,11 @@ How can you produce a list of facilities, with each labelled as 'cheap' or 'expe
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 target output
 
-![output](https://i.imgur.com/m9KL1IG.png)
+https://i.imgur.com/m9KL1IG.png
 
 ???
 
@@ -69,11 +69,11 @@ How can you produce a list of facilities, with each labelled as 'cheap' or 'expe
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 target output
 
-![output](https://i.imgur.com/m9KL1IG.png)
+https://i.imgur.com/m9KL1IG.png
 
 ???
 

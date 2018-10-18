@@ -39,11 +39,11 @@ How can you retrieve the details of facilities with ID 1 and 5? Try to do it wit
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 target output
 
-![output](https://i.imgur.com/BlUCtLN.png)
+https://i.imgur.com/BlUCtLN.png
 
 ???
 
@@ -59,11 +59,11 @@ How can you retrieve the details of facilities with ID 1 and 5? Try to do it wit
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 target output
 
-![output](https://i.imgur.com/BlUCtLN.png)
+https://i.imgur.com/BlUCtLN.png
 
 ???
 

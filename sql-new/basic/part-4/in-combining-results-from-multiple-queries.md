@@ -38,15 +38,15 @@ You, for some reason, want a combined list of all surnames and all facility name
 
 `members` table
 
-![table](https://i.imgur.com/BkIONKX.png)
+https://i.imgur.com/BkIONKX.png
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 target output
 
-![output](https://i.imgur.com/QHPpyvL.png)
+https://i.imgur.com/QHPpyvL.png
 
 ???
 
@@ -62,15 +62,15 @@ You, for some reason, want a combined list of all surnames and all facility name
 
 `members` table
 
-![table](https://i.imgur.com/BkIONKX.png)
+https://i.imgur.com/BkIONKX.png
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 target output
 
-![output](https://i.imgur.com/QHPpyvL.png)
+https://i.imgur.com/QHPpyvL.png
 
 ???
 

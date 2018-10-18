@@ -21,7 +21,6 @@ linkType: pgexercises
 link: https://pgexercises.com/questions/basic/where3.html
 
 links:
-
   - '[Basic string searches](https://pgexercises.com/questions/basic/where3.html){documentation}'
 
 ---

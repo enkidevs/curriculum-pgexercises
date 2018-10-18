@@ -41,11 +41,11 @@ How can you produce an ordered list of the first 10 surnames in the members tabl
 
 `members` table
 
-![table](https://i.imgur.com/BkIONKX.png)
+https://i.imgur.com/BkIONKX.png
 
 target output
 
-![output](https://i.imgur.com/5mfDSgL.png)
+https://i.imgur.com/5mfDSgL.png
 
 ???
 
@@ -61,11 +61,11 @@ How can you produce an ordered list of the first 10 surnames in the members tabl
 
 `members` table
 
-![table](https://i.imgur.com/BkIONKX.png)
+https://i.imgur.com/BkIONKX.png
 
 target output
 
-![output](https://i.imgur.com/5mfDSgL.png)
+https://i.imgur.com/5mfDSgL.png
 
 ???
 

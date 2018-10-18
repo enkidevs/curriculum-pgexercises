@@ -17,7 +17,6 @@ standards:
   sql-new.read-single-table.2: 10
 
 links:
-
   - '[Control which rows are retrieved - part 2](https://pgexercises.com/questions/basic/where2.html){documentation}'
 
 ---
@@ -40,15 +39,15 @@ How can you produce a list of facilities that charge a fee to members, and that 
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 target output
 
-![output](https://i.imgur.com/yfPSxft.png)
+https://i.imgur.com/yfPSxft.png
 
 visualisation
 
-![visualisation](https://i.imgur.com/ZyETk6n.png)
+https://i.imgur.com/ZyETk6n.png
 
 ???
 
@@ -64,15 +63,15 @@ How can you produce a list of facilities that charge a fee to members, and that 
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 target output
 
-![output](https://i.imgur.com/yfPSxft.png)
+https://i.imgur.com/yfPSxft.png
 
 visualisation
 
-![visualisation](https://i.imgur.com/ZyETk6n.png)
+https://i.imgur.com/ZyETk6n.png
 
 ???
 

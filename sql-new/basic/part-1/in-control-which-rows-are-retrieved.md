@@ -38,11 +38,11 @@ How can you produce a list of facilities that charge a fee to members?
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 target output
 
-![output](https://i.imgur.com/T0UXHH8.png)
+https://i.imgur.com/T0UXHH8.png
 
 ???
 
@@ -58,11 +58,11 @@ How can you produce a list of facilities that charge a fee to members?
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 target output
 
-![output](https://i.imgur.com/T0UXHH8.png)
+https://i.imgur.com/T0UXHH8.png
 
 ???
 

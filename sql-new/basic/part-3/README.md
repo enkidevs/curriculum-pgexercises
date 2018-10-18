@@ -11,3 +11,4 @@ exercises:
   - ex-classify-results-into-buckets
   - ex-working-with-dates
   - ex-removing-duplicates-and-ordering-results
+ 

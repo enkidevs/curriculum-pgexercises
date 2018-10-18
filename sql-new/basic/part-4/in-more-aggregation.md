@@ -54,11 +54,11 @@ You'd like to get the first and last name of the last member(s) who signed up - 
 
 `members` table
 
-![table](https://i.imgur.com/BkIONKX.png)
+https://i.imgur.com/BkIONKX.png
 
 target output
 
-![output](https://i.imgur.com/XaLWF7C.png)
+https://i.imgur.com/XaLWF7C.png
 
 ???
 
@@ -74,11 +74,11 @@ You'd like to get the first and last name of the last member(s) who signed up - 
 
 `members` table
 
-![table](https://i.imgur.com/BkIONKX.png)
+https://i.imgur.com/BkIONKX.png
 
 target output
 
-![output](https://i.imgur.com/XaLWF7C.png)
+https://i.imgur.com/XaLWF7C.png
 
 ???
 

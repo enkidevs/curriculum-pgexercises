@@ -38,11 +38,11 @@ How can you produce a list of all facilities with the word 'Tennis' in their nam
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 target output
 
-![output](https://i.imgur.com/Ie2tLwh.png)
+https://i.imgur.com/Ie2tLwh.png
 
 ???
 
@@ -58,11 +58,11 @@ How can you produce a list of all facilities with the word 'Tennis' in their nam
 
 `facilities` table
 
-![table](https://i.imgur.com/cUIabdz.png)
+https://i.imgur.com/cUIabdz.png
 
 target output
 
-![output](https://i.imgur.com/Ie2tLwh.png)
+https://i.imgur.com/Ie2tLwh.png
 
 ???
 
