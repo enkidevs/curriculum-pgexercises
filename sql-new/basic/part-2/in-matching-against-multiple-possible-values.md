@@ -71,4 +71,3 @@ target output
 * select everything from facilities where facid in (1,5);
 * select * from facilities where facid in('1','5');
 * select * from facilities where facid in 1 and 5;
-

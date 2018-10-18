@@ -38,4 +38,3 @@ Once you have edited the query, review with your pair which parts of the query y
 ### Discuss:
 - How do we specify that we want the maximum value in a column?
 - How would you guess we can ask for the minimum, average and sum of a column?
-

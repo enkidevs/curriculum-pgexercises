@@ -61,4 +61,3 @@ Relational databases let you connect (or "relate") data about different things o
 
 * True
 * False
-

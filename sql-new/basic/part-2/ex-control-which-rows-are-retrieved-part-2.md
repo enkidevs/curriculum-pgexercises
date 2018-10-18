@@ -38,4 +38,3 @@ Once you have edited the query, review with your pair which parts of the query y
 ### Discuss:
 - How do we specify which fields to use as a filter for our data?
 - How do we specify comparisons on filter fields?
-

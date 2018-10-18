@@ -81,3 +81,4 @@ target output
 * select everything from facilities where 'expensive' or 'cheap';
 * select name, expensive, cheap from facilities;
 * select name, case when true then 'expensive' else 'cheap' from facilities;
+

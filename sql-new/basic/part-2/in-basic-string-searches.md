@@ -70,3 +70,4 @@ target output
 * select everything from facilities where name like 'Tennis';
 * select * from facilities where name like('%Tennis%')
 * select * from facilities where name % Tennis
+

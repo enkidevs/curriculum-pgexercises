@@ -11,4 +11,3 @@ exercises:
   - ex-control-which-rows-are-retrieved-part-2
   - ex-basic-string-searches
   - ex-matching-against-multiple-possible-values
-

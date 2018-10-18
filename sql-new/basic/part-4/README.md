@@ -11,3 +11,5 @@ exercises:
   - ex-combining-results-from-multiple-queries
   - ex-simple-aggregation
   - ex-more-aggregation
+
+  

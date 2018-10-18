@@ -38,4 +38,3 @@ Once you have edited the query, review with your pair which parts of the query y
 - How do we specify filtering our data on a list of values?
 - How do we specify which columns we want from the table?
 
-
