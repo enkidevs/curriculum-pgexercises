@@ -50,4 +50,3 @@ SQL let's you get data from a relational database using `SELECT` statements.
 
 * True
 * False
-

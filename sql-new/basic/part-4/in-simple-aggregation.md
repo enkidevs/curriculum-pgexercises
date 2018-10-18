@@ -74,4 +74,3 @@ target output
 * select last joindate from members as latest;
 * select last('joindate') from members;
 * select latest joindate as max from members;
-

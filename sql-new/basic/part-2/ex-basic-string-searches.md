@@ -38,4 +38,3 @@ Once you have edited the query, review with your pair which parts of the query y
 ### Discuss:
 - How do we specify which field(s) to use for filtering data?
 - How do we specify that we want to filter on only part of a word?
-

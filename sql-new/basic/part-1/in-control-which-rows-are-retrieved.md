@@ -70,4 +70,3 @@ target output
 * select everything from facilities where membercost is greater than zero;
 * select * from table('facilities') where column('membercost') gt 0;
 * select * from facilities where membercost gt 0;
-

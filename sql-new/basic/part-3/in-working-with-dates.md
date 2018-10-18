@@ -68,4 +68,3 @@ target output
 * select everything from members where joindate is recent;
 * select memid, surname, firstname, joindate from members where joindate is greater than '20122-09-01';
 * select memid, surname, firstname, joindate from members where greater(joindate, '20122-09-01');
-

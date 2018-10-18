@@ -86,3 +86,4 @@ target output
 * select everything from members where joindate equals max(joindate) from members;
 * select firstname, surname, joindate from members where joindate is equal to max(joindate) in members;
 * select * from members where joindate = (select max(joindate) from members);
+

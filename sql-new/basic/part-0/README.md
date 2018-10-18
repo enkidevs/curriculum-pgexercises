@@ -9,4 +9,3 @@ insights:
 
 exercises:
   - ex-simple-queries
-

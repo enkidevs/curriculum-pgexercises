@@ -62,6 +62,3 @@ standards:
       4: Use a WHERE clause with the UPDATE command to conditionally update rows of data
       5: Delete data with the DELETE command
       6: Use a WHERE clause with the DELETE command to conditionally delete rows of data
-
-next:
-

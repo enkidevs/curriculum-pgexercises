@@ -80,4 +80,3 @@ visualisation
 * select four columns from facilities where membercost greater than 0 and membercost less than monthlymaintenance divided by 50;
 * select facid, name, membercost, monthlymaintenance from facilities where greater(membercost, 0) and less(membercost, monthlymaintenance/50.0);
 * select * from facilities where membercost > 0 and membercost < monthlymaintenance/50.0;
-

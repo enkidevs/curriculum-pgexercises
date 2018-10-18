@@ -78,3 +78,4 @@ target output
 * select surname from members and select name from facilities;
 * select members('surname') union select facilities('name');
 * select surname from members as well as name from facilities;
+
